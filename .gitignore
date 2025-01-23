@@ -1,0 +1,7 @@
+**/__pycache__/
+./crypto/config/
+*.log
+**/.vscode/
+**/.idea/
+output/
+*.so
